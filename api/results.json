@@ -1,0 +1,27 @@
+[
+  {
+    "code": "BOL-ARG",
+    "home": 2,
+    "away": 0
+  },
+  {
+    "code": "CHI-VEN",
+    "home": 3,
+    "away": 1
+  },
+  {
+    "code": "PER-URU",
+    "home": 2,
+    "away": 1
+  },
+  {
+    "code": "ECU-COL",
+    "home": 0,
+    "away": 2
+  },
+  {
+    "code": "BRA-PAR",
+    "home": 3,
+    "away": 0
+  }
+]
