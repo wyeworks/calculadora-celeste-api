@@ -20,8 +20,28 @@
     "away": 2
   },
   {
-    "code": "BRA-PAR",
+    "code": "CHI-PAR",
     "home": 3,
+    "away": 0
+  },
+  {
+    "code": "BRA-ECU",
+    "home": 1,
+    "away": 1
+  },
+  {
+    "code": "ARG-VEN",
+    "home": 2,
+    "away": 1
+  },
+  {
+    "code": "BOL-BRA",
+    "home": 1,
+    "away": 1
+  },
+  {
+    "code": "URU-BOL",
+    "home": 2,
     "away": 0
   }
 ]
