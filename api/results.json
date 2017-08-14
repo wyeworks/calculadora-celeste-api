@@ -43,5 +43,10 @@
     "code": "URU-BOL",
     "home": 2,
     "away": 0
+  },
+  {
+    "code": "URU-ARG",
+    "home": 8,
+    "away": 1
   }
 ]
