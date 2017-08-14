@@ -48,5 +48,12 @@
     "code": "URU-ARG",
     "home": 8,
     "away": 1
+  },
+  {
+    "code": "BOL-CHI",
+    "home": 3,
+    "away": 0,
+    "homePoints": 3,
+    "awayPoints": 0
   }
 ]
