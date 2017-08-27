@@ -5,5 +5,15 @@
     "away": 0,
     "homePoints": 1,
     "awayPoints": 0
-  }
+  },
+  {
+    "code": "VEN-COL",
+    "home": 1,
+    "away": 1
+  },
+  {
+    "code": "CHI-PAR",
+    "home": 2,
+    "away": 2
+  } 
 ]
