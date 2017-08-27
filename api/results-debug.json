@@ -90,5 +90,20 @@
     "code": "URU-BOL",
     "home": 3,
     "away": 0
+  },
+  {
+    "code": "BRA-CHI",
+    "home": 4,
+    "away": 4
+  },
+  {
+    "code": "ECU-ARG",
+    "home": 0,
+    "away": 3
+  },
+  {
+    "code": "PER-COL",
+    "home": 3,
+    "away": 0
   }
 ]
