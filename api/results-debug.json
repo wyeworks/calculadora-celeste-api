@@ -55,5 +55,40 @@
     "code": "ARG-VEN",
     "home": 3,
     "away": 2
+  },
+  {
+    "code": "CHI-ECU",
+    "home": 0,
+    "away": 0
+  },
+  {
+    "code": "ARG-PER",
+    "home": 1,
+    "away": 1
+  },
+  {
+    "code": "COL-PAR",
+    "home": 2,
+    "away": 2
+  },
+  {
+    "code": "VEN-URU",
+    "home": 3,
+    "away": 3
+  },
+  {
+    "code": "BOL-BRA",
+    "home": 4,
+    "away": 4
+  },
+  {
+    "code": "PAR-VEN",
+    "home": 0,
+    "away": 3
+  },
+  {
+    "code": "URU-BOL",
+    "home": 3,
+    "away": 0
   }
 ]
