@@ -30,5 +30,30 @@
     "code": "URU-ARG",
     "home": 1,
     "away": 1
+  },
+  {
+    "code": "BOL-CHI",
+    "home": 2,
+    "away": 1
+  },
+  {
+    "code": "COL-BRA",
+    "home": 0,
+    "away": 0
+  },
+  {
+    "code": "ECU-PER",
+    "home": 3,
+    "away": 1
+  },
+  {
+    "code": "PAR-URU",
+    "home": 0,
+    "away": 0
+  },
+  {
+    "code": "ARG-VEN",
+    "home": 3,
+    "away": 2
   }
 ]
