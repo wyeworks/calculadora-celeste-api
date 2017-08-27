@@ -15,5 +15,20 @@
     "code": "CHI-PAR",
     "home": 2,
     "away": 2
-  } 
+  },
+  {
+    "code": "BRA-ECU",
+    "home": 1,
+    "away": 1
+  },
+  {
+    "code": "PER-BOL",
+    "home": 2,
+    "away": 2
+  },
+  {
+    "code": "URU-ARG",
+    "home": 1,
+    "away": 1
+  },
 ]
