@@ -3,5 +3,15 @@
     "code": "VEN-COL",
     "home": 0,
     "away": 0
+  },
+  {
+    "code": "CHI-PAR",
+    "home": 0,
+    "away": 3
+  },
+  {
+    "code": "URU-ARG",
+    "home": 0,
+    "away": 0
   }
 ]
