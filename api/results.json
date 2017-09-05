@@ -23,5 +23,10 @@
     "code": "PER-BOL",
     "home": 2,
     "away": 1
+  },
+  {
+    "code": "BOL-CHI",
+    "home": 1,
+    "away": 0
   }
 ]
