@@ -43,5 +43,10 @@
     "code": "ARG-VEN",
     "home": 1,
     "away": 1
+  },
+  {
+    "code": "PAR-URU",
+    "home": 1,
+    "away": 2
   }
 ]
