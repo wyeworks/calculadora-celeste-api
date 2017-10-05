@@ -48,5 +48,10 @@
     "code": "PAR-URU",
     "home": 1,
     "away": 2
+  },
+  {
+    "code": "BOL-BRA",
+    "home": 0,
+    "away": 0
   }
 ]
