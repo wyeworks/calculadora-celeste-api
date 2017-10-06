@@ -58,5 +58,20 @@
     "code": "VEN-URU",
     "home": 0,
     "away": 0
+  },
+  {
+    "code": "ARG-PER",
+    "home": 0,
+    "away": 0
+  },
+  {
+    "code": "COL-PAR",
+    "home": 1,
+    "away": 2
+  },
+  {
+    "code": "CHI-ECU",
+    "home": 2,
+    "away": 1
   }
 ]
