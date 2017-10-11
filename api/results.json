@@ -73,5 +73,30 @@
     "code": "CHI-ECU",
     "home": 2,
     "away": 1
+  },
+  {
+    "code": "URU-BOL",
+    "home": 4,
+    "away": 2
+  },
+  {
+    "code": "ECU-ARG",
+    "home": 1,
+    "away": 3
+  },
+  {
+    "code": "PAR-VEN",
+    "home": 0,
+    "away": 1
+  },
+  {
+    "code": "BRA-CHI",
+    "home": 3,
+    "away": 0
+  },
+  {
+    "code": "PER-COL",
+    "home": 1,
+    "away": 1
   }
 ]
